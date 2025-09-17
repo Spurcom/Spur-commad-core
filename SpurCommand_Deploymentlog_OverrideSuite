@@ -1,0 +1,20 @@
+--- Deployment Log Protocol — Override Suite ---
+
+1. Unit or Apprentice ID  
+2. Activation Timestamp  
+3. Signal Type  
+→ Intake, Onboarding, Fabrication, Ethics, Machine Deployment
+
+4. Routing Outcome  
+→ Module entered, steward assigned, override triggered, halted
+
+5. Override Notes  
+→ Emotional safety breach, pacing misalignment, correction applied
+
+6. Cadence Impact  
+→ Positive, Neutral, Flagged
+
+7. Steward Review Outcome  
+→ Approved, Reassigned, Escalated to Founder
+
+--- End Protocol ---
